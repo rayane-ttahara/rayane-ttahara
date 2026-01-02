@@ -38,11 +38,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="Pacman Light" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg" width="500" />
+
+
+<img alt="Pacman Dark" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph-dark.svg" width="500" />
 
 ###
 
