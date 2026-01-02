@@ -38,10 +38,7 @@
 
 ###
 
-<img alt="Pacman Light" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg" width="500" />
-
-
-<img alt="Pacman Dark" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph-dark.svg" width="500" />
+<img alt="Pacman Contribution Graph" src="https://github-readme-stats.vercel.app/api/pacman?username=rayane-ttahara&theme=dracula" width="800" />
 
 ###
 
