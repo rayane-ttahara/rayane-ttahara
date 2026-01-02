@@ -3,8 +3,16 @@
 ###
 
 <div align="center">
-  <td><img src="https://github-readme-stats-fast.vercel.app/api?username=rayane-ttahara&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="400" /></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rayane-ttahara&layout=compact&theme=tokyonight&hide_border=false" width="400" /></td>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=rayane-ttahara&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="380" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rayane-ttahara&layout=compact&theme=dracula&hide_border=false" width="380" height="180" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ###
