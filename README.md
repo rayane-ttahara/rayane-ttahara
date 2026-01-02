@@ -2,6 +2,13 @@
 
 ###
 
+
+
+###
+
+<p align="left">Olá! 👋<br>Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado contínuo.<br>Atualmente, tenho foco em desenvolvimento backend, trabalhando com lógica, estrutura de dados e construção de soluções eficientes, mas também gosto de explorar o desenvolvimento frontend, buscando entender melhor a experiência do usuário e a integração entre as camadas da aplicação.<br><br>Sou formada pela ETEC Uirapuru no curso de Desenvolvimento de Sistemas, onde tive meu primeiro contato prático com programação, bancos de dados e desenvolvimento de aplicações.<br><br>Estou constantemente aprimorando minhas habilidades, explorando novas tecnologias e construindo projetos que me ajudem a evoluir como profissional na área de tecnologia 🚀</p>
+
+###
 <div align="center">
 <table>
   <tr>
@@ -14,13 +21,6 @@
   </tr>
 </table>
 </div>
-
-###
-
-<p align="left">Olá! 👋<br>Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado contínuo.<br>Atualmente, tenho foco em desenvolvimento backend, trabalhando com lógica, estrutura de dados e construção de soluções eficientes, mas também gosto de explorar o desenvolvimento frontend, buscando entender melhor a experiência do usuário e a integração entre as camadas da aplicação.<br><br>Sou formada pela ETEC Uirapuru no curso de Desenvolvimento de Sistemas, onde tive meu primeiro contato prático com programação, bancos de dados e desenvolvimento de aplicações.<br><br>Estou constantemente aprimorando minhas habilidades, explorando novas tecnologias e construindo projetos que me ajudem a evoluir como profissional na área de tecnologia 🚀</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rayane-tahara-87431239a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
