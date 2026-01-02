@@ -1,16 +1,53 @@
-## Hi there 👋
+<h2 align="left">Olá meu nome é Rayane, muito prazer!</h2>
 
-<!--
-**rayane-ttahara/rayane-ttahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayane-ttahara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane-ttahara&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Olá! 👋<br>Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado contínuo.<br>Atualmente, tenho foco em desenvolvimento backend, trabalhando com lógica, estrutura de dados e construção de soluções eficientes, mas também gosto de explorar o desenvolvimento frontend, buscando entender melhor a experiência do usuário e a integração entre as camadas da aplicação.<br><br>Sou formada pela ETEC Uirapuru no curso de Desenvolvimento de Sistemas, onde tive meu primeiro contato prático com programação, bancos de dados e desenvolvimento de aplicações.<br><br>Estou constantemente aprimorando minhas habilidades, explorando novas tecnologias e construindo projetos que me ajudem a evoluir como profissional na área de tecnologia 🚀</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rayane-tahara-87431239a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="rayanetahara3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="24" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayane-ttahara/rayane-ttahara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@rayane-ttahara/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
