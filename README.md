@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=rayane-ttahara&show_icons=true&theme=dracula" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rayane-ttahara&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <td><img src="https://github-readme-stats-fast.vercel.app/api?username=rayane-ttahara&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="400" /></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rayane-ttahara&layout=compact&theme=tokyonight&hide_border=false" width="400" /></td>
 </div>
 
 ###
