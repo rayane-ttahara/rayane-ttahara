@@ -6,7 +6,15 @@
 
 ###
 
-<p align="left">Olá! 👋<br>Sou uma desenvolvedora em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado contínuo.<br>Atualmente, tenho foco em desenvolvimento backend, trabalhando com lógica, estrutura de dados e construção de soluções eficientes, mas também gosto de explorar o desenvolvimento frontend, buscando entender melhor a experiência do usuário e a integração entre as camadas da aplicação.<br><br>Sou formada pela ETEC Uirapuru no curso de Desenvolvimento de Sistemas, onde tive meu primeiro contato prático com programação, bancos de dados e desenvolvimento de aplicações.<br><br>Estou constantemente aprimorando minhas habilidades, explorando novas tecnologias e construindo projetos que me ajudem a evoluir como profissional na área de tecnologia 🚀</p>
+<p align="left">Olá! 👋
+
+Sou a Rayane, desenvolvedora em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado contínuo.
+
+Atualmente, sou estudante de Ciência da Computação na UNIP e técnica em Desenvolvimento de Sistemas formada pela ETEC Uirapuru.
+
+No momento, tenho foco em desenvolvimento backend, trabalhando com lógica de programação, estrutura de dados e construção de soluções eficientes. Como objetivo profissional, pretendo me tornar programadora full stack, ampliando gradualmente meus conhecimentos em frontend e na integração completa das aplicações.
+
+Estou constantemente aprimorando minhas habilidades, explorando novas tecnologias e desenvolvendo projetos que contribuam para minha evolução profissional na área de tecnologia 🚀</p>
 
 ###
 <div align="center">
